@@ -1,4 +1,4 @@
-/** Leetcode prn.2620 */
+/** Leetcode.2620 counter */
 
 function createCounter(n) {
   return function () {
